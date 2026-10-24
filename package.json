@@ -1,0 +1,24 @@
+{
+  "name": "bubble-game-copy",
+  "version": "1.0.0",
+  "description": "Bubble Rush is a lightweight browser game built with HTML, CSS, and vanilla JavaScript. Players match a target number shown at the top of the screen, click the correct bubble, and try to score as much as possible before the timer reaches zero.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabh506/bubble-game-copy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rishabh506/bubble-game-copy/issues"
+  },
+  "homepage": "https://github.com/rishabh506/bubble-game-copy#readme",
+  "devDependencies": {
+    "jsdom": "^29.1.1"
+  }
+}
